@@ -1,0 +1,18 @@
+{
+    "name": "weiyun/models",
+    "description": "pack test",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "weiyun\\models\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shikang",
+            "email": "1450610915@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
